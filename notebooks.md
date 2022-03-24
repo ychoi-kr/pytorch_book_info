@@ -15,9 +15,9 @@
 |10장|[튜닝 기법](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/ch10_dl_tuning.ipynb)|
 |11장|[사전 학습 모델 활용하기](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/ch11_tr_learning.ipynb)|
 |12장|[사용자 정의 데이터를 활용한 이미지 분류](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/ch12_custom_dl.ipynb)|
-|講座1|[파이썬 입문](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/l01_python.ipynb)|
-|講座2|[넘파이 입문](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/l02_numpy.ipynb)|
-|講座3|[매트플롯립 입문](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/l03_matplotlib.ipynb)|
+|부록1|[파이썬 입문](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/l01_python.ipynb)|
+|부록2|[넘파이 입문](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/l02_numpy.ipynb)|
+|부록3|[매트플롯립 입문](https://colab.research.google.com/github//ychoi-kr/pytorch_book_info/blob/main/notebooks/l03_matplotlib.ipynb)|
 
 ---
 
